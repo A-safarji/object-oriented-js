@@ -31,4 +31,6 @@ In software engineering, a class diagram in the Unified Modeling Language (UML) 
 -->
 ## Contributing
 
-- Fork the Repository [here](https://github.com/A-safarji/object-oriented-js/fork)
+- Fork the Repository [here](https://github.com/A-safarji/object-oriented-js/fork) for practicing, editing and applying more functions to it and share with me!! 
+- Let's do it!!! 
+ 

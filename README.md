@@ -29,8 +29,13 @@ In software engineering, a class diagram in the Unified Modeling Language (UML) 
 - ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) `#c5f015`
 - ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `#1589F0`
 -->
+## Setup 
+ - Any Text Editor (eg. vscode, Atom, Sublime text).
+ - Enable JavaScript in your browser + inspect console to test + more details for start-up [here](https://launchschool.com/books/javascript/read/preparations)
+ 
 ## Contributing
 
 - Fork the Repository [here](https://github.com/A-safarji/object-oriented-js/fork) for practicing, editing and applying more functions to it and share with me!! 
 - Let's do it!!! 
+ 
  

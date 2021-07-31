@@ -22,7 +22,7 @@ In software engineering, a class diagram in the Unified Modeling Language (UML) 
  ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Implement the following diagram using inheritance in JS OOP approach in ECMA6
 ![UML ](https://image.ibb.co/mMg1iS/Screen_Shot_2018_03_03_at_2_06_23_PM.png)
 
-This is an example to see how the inheritance in JS OOP works.
+-This is an example to see how the inheritance in JS OOP works + implementing actual diagram.
 
 <!--
 - ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`

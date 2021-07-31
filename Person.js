@@ -1,5 +1,5 @@
-class Prsons {
-  #address;
+class Prsons {  // super class
+  #address; //private inst with #
   #name;
   constructor(name, address) {
     this.#name = name;
@@ -24,7 +24,7 @@ class Prsons {
   }
 }
 
-class Students extends Prsons {
+class Students extends Prsons { // sub-class of Persons = extends
   #count = 0;
   #course = [];
   #grade = []; //new Array(30);
@@ -73,7 +73,7 @@ class Students extends Prsons {
   }
 }
 
-class Teacher extends Prsons {
+class Teacher extends Prsons { // sub-class of Persons = extends
   #count = 0;
   #course = [];
   #grade = []; //new Array(30);
@@ -113,6 +113,8 @@ class Teacher extends Prsons {
     );
   }
 }
+
+////  testing and runnung  
 
 var zx = new Prsons();
 zx.name = "safarji";

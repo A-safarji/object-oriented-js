@@ -29,3 +29,6 @@ In software engineering, a class diagram in the Unified Modeling Language (UML) 
 - ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) `#c5f015`
 - ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `#1589F0`
 -->
+## Contributing
+
+- Fork the Repository [here](https://github.com/A-safarji/object-oriented-js/fork)

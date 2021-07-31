@@ -114,7 +114,7 @@ class Teacher extends Prsons { // sub-class of Persons = extends
   }
 }
 
-////  testing and runnung  
+////  testing and running in your console  
 
 var zx = new Prsons();
 zx.name = "safarji";
